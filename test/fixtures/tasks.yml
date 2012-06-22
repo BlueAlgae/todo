@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  BlueAlgae: MyString
+  description: MyString
+
+two:
+  BlueAlgae: MyString
+  description: MyString
